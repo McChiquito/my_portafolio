@@ -58,7 +58,7 @@ Responsive landing page focused on layout structure and visual design.
 
 ## 📬 Contact
 
-LinkedIn: (pon tu link)
+LinkedIn: www.linkedin.com/in/yahir-zaele-medina-rioja-572147326
 GitHub: https://github.com/McChiquito
 
 ## 👑 Author
