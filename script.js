@@ -29,3 +29,7 @@ function showPopup(bool) {
 function addRecommendation(){
   showPopup(true);
 }
+
+function toggleMenu(){
+  document.querySelector(".topdiv").classList.toggle("active");
+}
